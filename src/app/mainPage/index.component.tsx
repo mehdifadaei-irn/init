@@ -14,6 +14,7 @@ const MainPage = () => {
       {data?.at(0)?.title}
       {data?.at(0)?.title}
       <h4>myineenenenenenene</h4>
+      <h3>myCodeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</h3>
     </div>
   );
 };
